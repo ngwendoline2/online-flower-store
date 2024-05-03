@@ -13,9 +13,33 @@ html, body {
   margin: 0;
   padding: 0;
 }
-body {
+
+.Home {
   background-image: url('/Life.jpg'); /* Adjust the path as needed */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* #btn {
+  background-color: rgb(124, 231, 165);
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+} */
+
+.About {
+  background-image: url('/pots.webp'); /* Adjust the path as needed */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: bold;
+
 }
