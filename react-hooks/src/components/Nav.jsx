@@ -13,6 +13,9 @@ export default function Nav(props) {
       <Link to="contact">
         <div>Contact</div>
         </Link>
+        <Link to='Thankyou'>
+          <div>Thankyou</div>
+        </Link>
       </div>
   )
 }
