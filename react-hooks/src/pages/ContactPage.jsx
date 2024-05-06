@@ -7,9 +7,9 @@ const ContactPage = () => {
         <>
         <div className='Contact'>You can get to us through</div>;
         <b></b>
-        <p>phone: 000 812 4060</p>
+        <div>phone: 000 812 4060</div>;
         <br></br>
-        <p>email: joyjoyjoy@peace.com</p>
+        <div>email: joyjoyjoy@peace.com</div>
         <br></br>
         <div>
             <button id='btn'>Calenda</button>

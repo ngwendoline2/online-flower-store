@@ -60,15 +60,3 @@ html, body {
   border: none;
   border-radius: 15px;
 }
-
-.Thankyou {
-  background-image: url('/fruitbasket.webp'); /* Adjust the path as needed */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
-  color: aliceblue;
-  font-size: 20px;
-  font-weight: bold;
-
-}
